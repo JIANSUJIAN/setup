@@ -3,6 +3,15 @@
 " to move quickly)
 set hidden
 
+let mapleader=","
+set cursorline
+set cursorcolumn
+
+" Allow crosshair cursor highlighting.
+hi CursorLine   cterm=NONE ctermbg=0
+hi CursorColumn cterm=NONE ctermbg=0
+nnoremap <Leader>c :set cursorline! cursorcolumn!<CR>
+
 
 " Install vim-plug if not found
 if empty(glob('~/.vim/autoload/plug.vim'))
