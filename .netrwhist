@@ -1,8 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =6
-let g:netrw_dirhist_6='/Users/jiansu/projects/appoint/ivr/ivr-phone-tree-python/ivr_phone_tree_python/static'
-let g:netrw_dirhist_5='/Users/jiansu/.aws/sso/cache'
-let g:netrw_dirhist_4='/Users/jiansu/.aws/sso'
-let g:netrw_dirhist_3='/Users/jiansu/.aws/cli'
-let g:netrw_dirhist_2='/Users/jiansu/projects/code-golfing/challenges/2023-11-17-longest-unique-substring/submissions/dan.wanek'
-let g:netrw_dirhist_1='/Users/jiansu/projects/code-golfing/challenges/2023-11-17-longest-unique-substring'
